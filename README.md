@@ -20,18 +20,18 @@ I hope you enjoy looking around!<br/>
 This is a list of my completed projects from the starter projects from Elegoo's Arduino manuel
 <!-- Project 1: Blink (SUB-PARA) -->
 ### Project 1: Blink <a name="Project 1: Blink"></a>
-Resources for - Project 1: Blink
-[Code](https://github.com/CHill-Three/chill-three.github.io/blob/master/MyBlink.ino)
+Resources for - Project 1: Blink<br/>
+[Code](https://github.com/CHill-Three/chill-three.github.io/blob/master/MyBlink.ino)<br/>
 <!-- p5.js -->
 ## p5.js Starter Projects <a name="p5.js Starter Projects"></a>
 This is a list of my completed projects from the starter projects from The Coding Train's YouTube channel featuring p5.js.
 ### Project 1: MetaBalls <a name="Project 1: MetaBalls"></a>
-Resources for - Project 1: MetaBalls
-[Code for class Meta](https://github.com/CHill-Three/chill-three.github.io/blob/master/Meta.pde)
-[Code for class Balls](https://github.com/CHill-Three/chill-three.github.io/blob/master/Balls.pde)
+Resources for - Project 1: MetaBalls<br/>
+[Code for class Meta](https://github.com/CHill-Three/chill-three.github.io/blob/master/Meta.pde)<br/>
+[Code for class Balls](https://github.com/CHill-Three/chill-three.github.io/blob/master/Balls.pde)<br/>
 ### Project 2: Psychedelic Effect <a name="Project 2: Psychedelic Effect"></a>
-Resources for - Project 2: Psychedelic Effect
+Resources for - Project 2: Psychedelic Effect<br/>
 ### Project 3: Purple Rain <a name="Project 3: Purple Rain"></a>
-Resources for - Project 3: Purple Rain
+Resources for - Project 3: Purple Rain<br/>
 ### Project 4: Starscape <a name="Project 4: Starscape"></a>
-Resources for - Project 4: Starscape
+Resources for - Project 4: Starscape<br/>
