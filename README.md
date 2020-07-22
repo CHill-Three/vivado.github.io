@@ -4,7 +4,7 @@
 <!-- Title -->
 # Chill-Three's github.io Project Page
 Hey there! Welcome to my first repository created on (7/20/2020)<br/>
-I hope you enjoy looking around!:wave:<br/>
+I hope you enjoy looking around!<br/>
 <!-- Table of Contents (TITLES) -->
 # Table of contents
 1. [Arduino Starter Projects](#Arduino Starter Projects)<br/>
