@@ -37,7 +37,7 @@ Resources for - Project 1: MetaBalls<br/>
 [Code for Balls (class) (Balls.pde)](https://github.com/CHill-Three/chill-three.github.io/blob/master/p5.js/MetaBalls/Balls.pde)<br/>
 
 ### Project 2: Psychedelic Effect <a name="Project 2: Psychedelic Effect"></a>
-![Psychedelic Effect.gif](/p5.js/Psychedelic Effect/PsyEffect.gif)<br/>
+![PsychedelicEffect.gif](/p5.js/Psychedelic Effect/PsyEffect.gif)<br/>
 Resources for - Project 2: Psychedelic Effect<br/>
 [Code for Psy (class) (Psy.pde)](https://github.com/CHill-Three/chill-three.github.io/blob/master/p5.js/Psychedelic%20Effect/Psy.pde)<br/>
 ### Project 3: Purple Rain <a name="Project 3: Purple Rain"></a>
