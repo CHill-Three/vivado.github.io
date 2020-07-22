@@ -10,7 +10,7 @@ I hope you enjoy looking around!<br/>
 # Table of contents
 1. [Arduino Starter Projects](#Arduino Starter Projects)<br/>
   1A. [Project 1: Blink](#Project 1: Blink)<br/>
-2. [p5.js Starter Projects](#P-13 Starter Projects)<br/>
+2. [p5.js Starter Projects](#p5.js Starter Projects)<br/>
   2A. [Project 1: MetaBalls](#Project 1: MetaBalls)<br/>
   2B. [Project 2: Psychedelic Effect](#Project 2: Psychedelic Effect)<br/>
   2C. [Project 3: Purple Rain](#Project 3: Purple Rain)<br/>
