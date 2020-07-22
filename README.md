@@ -1,3 +1,6 @@
+<!-- Quick Notes -->
+<!-- 1). To break lines: do two spaces after the line -->
+
 <!-- Title -->
 # chill-three's github project page
 My first repository created on (7/20/2020)
