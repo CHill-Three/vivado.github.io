@@ -31,14 +31,15 @@ Resources for - Project 1: Blink<br/>
 This is a list of my completed projects from the starter projects featured on The Coding Train's YouTube channel demonstrating p5.js.
 
 ### Project 1: MetaBalls <a name="Project 1: MetaBalls"></a>
-![MetaBalls .gif](/p5.js/MetaBalls/Metaballs.gif)<br/>
+![MetaBalls.gif](/p5.js/MetaBalls/Metaballs.gif)<br/>
 Resources for - Project 1: MetaBalls<br/>
 [Code for Meta (class) (Meta.pde)](https://github.com/CHill-Three/chill-three.github.io/blob/master/p5.js/MetaBalls/Meta.pde)<br/>
 [Code for Balls (class) (Balls.pde)](https://github.com/CHill-Three/chill-three.github.io/blob/master/p5.js/MetaBalls/Balls.pde)<br/>
 
 ### Project 2: Psychedelic Effect <a name="Project 2: Psychedelic Effect"></a>
+![Psychedelic Effect.gif](/p5.js/Psychedelic Effect/PsyEffect.gif)<br/>
 Resources for - Project 2: Psychedelic Effect<br/>
-
+[Code for Psy (class) (Psy.pde)](https://github.com/CHill-Three/chill-three.github.io/blob/master/p5.js/Psychedelic%20Effect/Psy.pde)<br/>
 ### Project 3: Purple Rain <a name="Project 3: Purple Rain"></a>
 Resources for - Project 3: Purple Rain<br/>
 
