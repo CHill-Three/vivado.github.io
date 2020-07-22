@@ -21,6 +21,7 @@ void Color(int redValue, int greenValue, int blueValue)
   analogWrite(BLUE, blueValue);
 }
 
+// choose a value between 1 and 255 to change the color. (red value, green value, blue value)
 void loop() 
 {
   Color(255, 0, 0); // Red
