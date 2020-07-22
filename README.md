@@ -7,12 +7,12 @@ This is my first repository created on (7/20/2020)
 <!-- Table of Contents (TITLES) -->
 # Table of contents
 1. [Arduino Starter Projects](#Arduino Starter Projects)<br/>
-  1A. [Project 1: Blink](#Project 1: Blink)  
-2. [p5.js Starter Projects](#P-13 Starter Projects)  
-  2A. [Project 1: Blink](#Project 1: MetaBalls)  
-  2B. [Project 1: Blink](#Project 2: Psychedelic Effect)  
-  2C. [Project 1: Blink](#Project 3: Purple Rain)  
-  2D. [Project 1: Blink](#Project 4: Starscape)  
+  1A. [Project 1: Blink](#Project 1: Blink)<br/>
+2. [p5.js Starter Projects](#P-13 Starter Projects)<br/>
+  2A. [Project 1: Blink](#Project 1: MetaBalls)<br/>
+  2B. [Project 1: Blink](#Project 2: Psychedelic Effect)<br/>
+  2C. [Project 1: Blink](#Project 3: Purple Rain)<br/>
+  2D. [Project 1: Blink](#Project 4: Starscape)<br/>
 <!-- Table of Contents (BODY) -->
 <!-- Arduino -->
 ## Arduino Starter Projects <a name="Arduino Starter Projects"></a>
