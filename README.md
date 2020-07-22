@@ -24,7 +24,7 @@ Resources for - Project 1: Blink<br/>
 [Code (MyBlink.ino)](https://github.com/CHill-Three/chill-three.github.io/blob/master/MyBlink.ino)<br/>
 <!-- p5.js -->
 ## p5.js Starter Projects <a name="p5.js Starter Projects"></a>
-This is a list of my completed projects from the starter projects from The Coding Train's YouTube channel featuring p5.js.
+This is a list of my completed projects from the starter projects featured on The Coding Train's YouTube channel demonstrating p5.js.
 ### Project 1: MetaBalls <a name="Project 1: MetaBalls"></a>
 Resources for - Project 1: MetaBalls<br/>
 [Code for Meta (class) (Meta.pde)](https://github.com/CHill-Three/chill-three.github.io/blob/master/Meta.pde)<br/>
