@@ -1,12 +1,12 @@
 <!-- Quick Notes -->
-<!-- 1). To break lines: do two spaces after the line -->
+<!-- 1). To break lines: do two spaces after the line or do <br/> -->
 
 <!-- Title -->
 # chill-three's github project page
-My first repository created on (7/20/2020)
+This is my first repository created on (7/20/2020)
 <!-- Table of Contents (TITLES) -->
 # Table of contents
-1. [Arduino Starter Projects](#Arduino Starter Projects)  
+1. [Arduino Starter Projects](#Arduino Starter Projects)<br/>
   1A. [Project 1: Blink](#Project 1: Blink)  
 2. [p5.js Starter Projects](#P-13 Starter Projects)  
   2A. [Project 1: Blink](#Project 1: MetaBalls)  
