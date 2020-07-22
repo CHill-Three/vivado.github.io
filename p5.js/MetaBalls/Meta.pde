@@ -1,5 +1,12 @@
+/*
+	initial sketch and create an array called "blob" that holds ten
+  this number will be the number of "balls" present within the final project
+*/
 Blob[] blobs = new Blob[10];
 
+/*
+	initial a screen: 640 by 360 pixels
+*/
 void setup() {
   size(640, 360);
   colorMode(HSB);
