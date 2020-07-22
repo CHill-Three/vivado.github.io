@@ -2,7 +2,7 @@
 <!-- 1). To break lines: do two spaces after the line or do <br/> -->
 
 <!-- Title -->
-# Chill-Three's github.io project page
+# Chill-Three's github.io Project Page
 Hey there! Welcome to my first repository created on (7/20/2020)<br/>
 I hope you enjoy looking around!:wave:<br/>
 <!-- Table of Contents (TITLES) -->
