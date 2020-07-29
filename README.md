@@ -25,6 +25,7 @@ This is a list of my completed projects from the starter projects from Elegoo's 
 
 <!-- Project 1: Blink (SUB-PARA) -->
 ### Project 1: Blink <a name="Project 1: Blink"></a>
+![MyBlink.gif](/Arduino/Project 1: Blink/MyBlink.gif)<br/>
 Resources for - Project 1: Blink<br/>
 [Code (MyBlink.ino)](https://github.com/CHill-Three/chill-three.github.io/blob/master/Arduino/Project%201:%20Blink/MyBlink.ino)<br/>
 
