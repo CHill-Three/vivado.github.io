@@ -14,8 +14,8 @@ I hope you enjoy looking around!<br/>
         }
 </style>
 
-| [Back to Homepage](https://chill-three.github.io/) |
 | :-: |
+| [Back to Homepage](https://chill-three.github.io/) |
 
 {: .tablelines}
 
