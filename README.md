@@ -36,6 +36,7 @@ Resources for - Project 2: LED<br/>
 
 <!-- Project 3: RGB LED (SUB-PARA) -->
 ### Project 3: RGB LED <a name="Project 3: RGB LED"></a>
+![RGBLed.gif](/Arduino/Project 3: RGB LED/RGBLed.gif)<br/>
 Resources for - Project 3: RGB LED<br/>
 [Code (RGBLed.ino)](https://github.com/CHill-Three/chill-three.github.io/blob/master/Arduino/Project%203:%20RGB%20LED/RGBLed.ino)<br/>
 
