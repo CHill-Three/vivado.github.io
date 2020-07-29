@@ -27,7 +27,7 @@ I hope you enjoy looking around!<br/>
 
 <!-- p5.js -->
 ## p5.js Starter Projects <a name="p5.js Starter Projects"></a>
-This is a list of my completed projects from the starter projects featured on The Coding Train's YouTube channel demonstrating p5.js.
+This is a list of my completed projects using heavy inspiration from the starter projects featured on The Coding Train’s YouTube channel demonstrating p5.js.
 
 <!-- Project 1: MetaBalls (SUB-PARA) -->
 ### Project 1: MetaBalls <a name="Project 1: MetaBalls"></a>
