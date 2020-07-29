@@ -13,10 +13,8 @@ I hope you enjoy looking around!<br/>
         border: 2px solid black;
         }
 </style>
-
 | :-: |
 | [Back to Homepage](https://chill-three.github.io/) |
-
 {: .tablelines}
 
 # Table of contents
