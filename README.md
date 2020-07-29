@@ -7,6 +7,18 @@ Hey there! Welcome to my p5.js repository created on (7/29/2020)<br/>
 I hope you enjoy looking around!<br/>
 <!-- Table of Contents (TITLES) -->
 
+<!-- Home Button (Home) -->
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 2px solid black;
+        }
+</style>
+
+| [Back to Homepage](https://chill-three.github.io/) |
+| :-: |
+
+{: .tablelines}
+
 # Table of contents
 1. [p5.js Starter Projects](#p5.js Starter Projects)<br/>
   1A. [Project 1: MetaBalls](#Project 1: MetaBalls)<br/>
