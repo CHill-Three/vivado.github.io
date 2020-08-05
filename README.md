@@ -21,8 +21,6 @@ I hope you enjoy looking around!<br/>
 1. [p5.js Starter Projects](#p5.js Starter Projects)<br/>
   1A. [Project 1: MetaBalls](#Project 1: MetaBalls)<br/>
   1B. [Project 2: Psychedelic Effect](#Project 2: Psychedelic Effect)<br/>
-  1C. [Project 3: Purple Rain](#Project 3: Purple Rain)<br/>
-  1D. [Project 4: Starscape](#Project 4: Starscape)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- p5.js -->
@@ -41,12 +39,3 @@ Resources for - Project 1: MetaBalls<br/>
 ![PsyEffect.gif](/p5.js/Psychedelic Effect/PsyEffect.gif)<br/>
 Resources for - Project 2: Psychedelic Effect<br/>
 [Code for Psy (class) (Psy.pde)](https://github.com/CHill-Three/chill-three.github.io/blob/master/p5.js/Psychedelic%20Effect/Psy.pde)<br/>
-
-<!-- Project 3: Purple Rain (SUB-PARA) -->
-### Project 3: Purple Rain <a name="Project 3: Purple Rain"></a>
-Resources for - Project 3: Purple Rain<br/>
-
-
-<!-- Project 4: Starscape (SUB-PARA) -->
-### Project 4: Starscape <a name="Project 4: Starscape"></a>
-Resources for - Project 4: Starscape<br/>
