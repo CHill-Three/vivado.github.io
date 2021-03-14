@@ -2,8 +2,8 @@
 <!-- 1). To break lines: do two spaces after the line or do <br/> -->
 
 <!-- Title -->
-# CHill-Three's github.io vivado Page
-Hey there! Welcome to my vivado repository created on (3/14/2021)<br/>
+# CHill-Three's github.io Vivado Page
+Hey there! Welcome to my Vivado repository created on (3/14/2021)<br/>
 I hope you enjoy looking around!<br/>
 <!-- Table of Contents (TITLES) -->
 
@@ -18,9 +18,8 @@ I hope you enjoy looking around!<br/>
 {: .tablelines}
 
 # Table of contents
-1. [vivado Starter Projects](#vivado Starter Projects)<br/>
-  1A. [Project 1: MetaBalls](#Project 1: MetaBalls)<br/>
-  1B. [Project 2: Psychedelic Effect](#Project 2: Psychedelic Effect)<br/>
+1. [Vivado Starter Projects](#Vivado Starter Projects)<br/>
+  1A. [Project 1: Starter schematic to code](#Project 1: Starter schematic to code)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Vivado -->
