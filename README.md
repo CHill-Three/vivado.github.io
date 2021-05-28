@@ -24,7 +24,7 @@ I hope you enjoy looking around!<br/>
 
 <!-- Vivado -->
 ## Vivado Starter Projects <a name="Vivado Starter Projects"></a>
-This is a list of my completed projects utilizing Vivado Design Suite. The Vivado Design Suite starter projects featured on this website are my attempts at completing starter projects on the Artix-7 FPGA Family (Package: cpg236)(Part xc7a35tcpg236-1).
+This is a list of my completed projects utilizing Vivado Design Suite. The Vivado Design Suite starter projects featured on this website are my attempts at completing starter projects with the Artix-7 FPGA Family (Package: cpg236)(Part xc7a35tcpg236-1). With this section, I'd like to give a special thanks to Eduardo Corpeño with his "Learning Verilog for FPGA Development" course.
 
 <!-- Project 1: Starter schematic to code (SUB-PARA) -->
 ### Project 1: Testing a Two to One Multiplexer <a name="Project 1: Testing a Two to One Multiplexer"></a>
