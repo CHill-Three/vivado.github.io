@@ -19,7 +19,7 @@ I hope you enjoy looking around!<br/>
 
 # Table of contents
 1. [Vivado Starter Projects](#Vivado Starter Projects)<br/>
-  1A. [Project 1: Starter schematic to code](#Project 1: Testing a Two to One Multiplexer)<br/>
+  1A. [Project 1: Testing a Two to One Multiplexer](#Project 1: Testing a Two to One Multiplexer)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Vivado -->
@@ -27,7 +27,7 @@ I hope you enjoy looking around!<br/>
 This is a list of my completed projects utilizing Vivado Design Suite. The Vivado Design Suite starter projects featured on this website are my attempts at completing starter projects on the Artix-7 FPGA Family (Package: cpg236)(Part xc7a35tcpg236-1).
 
 <!-- Project 1: Starter schematic to code (SUB-PARA) -->
-### Project 1: Starter schematic to code <a name="Project 1: Testing a Two to One Multiplexer"></a>
+### Project 1: Testing a Two to One Multiplexer <a name="Project 1: Testing a Two to One Multiplexer"></a>
 <!-- ![MetaBalls.gif](/p5.js/MetaBalls/Metaballs.gif)<br/>
 Resources for - Project 1: MetaBalls<br/>
 [Code for Meta (class) (Meta.pde)](https://github.com/CHill-Three/chill-three.github.io/blob/master/p5.js/MetaBalls/Meta.pde)<br/>
