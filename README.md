@@ -28,8 +28,7 @@ This is a list of my completed projects utilizing Vivado Design Suite. The Vivad
 
 <!-- Project 1: Starter schematic to code (SUB-PARA) -->
 ### Project 1: Testing a Two to One Multiplexer <a name="Project 1: Testing a Two to One Multiplexer"></a>
-<!-- ![MetaBalls.gif](/p5.js/MetaBalls/Metaballs.gif)<br/>
-Resources for - Project 1: MetaBalls<br/>
-[Code for Meta (class) (Meta.pde)](https://github.com/CHill-Three/chill-three.github.io/blob/master/p5.js/MetaBalls/Meta.pde)<br/>
-[Code for Balls (class) (Balls.pde)](https://github.com/CHill-Three/chill-three.github.io/blob/master/p5.js/MetaBalls/Balls.pde)<br/> -->
+![twoToOneMUX.PNG](/Project 1: Testing a Two to One Multiplexer/twoToOneMUX.PNG)<br/>
+Resources for - Project 1: Testing a Two to One Multiplexer<br/>
+[Code for twoToOneMux (Verilog File) (twoToOneMux.v)](https://github.com/CHill-Three/vivado.github.io/blob/master/Project%201:%20Testing%20a%20Two%20to%20One%20Multiplexer/twoToOneMux.v)<br/>
 
