@@ -3,8 +3,7 @@
 
 <!-- Title -->
 # CHill-Three's github.io Vivado Page
-Hey there! Welcome to my Vivado repository created on (3/14/2021)<br/>
-I hope you enjoy looking around!<br/>
+Hey there! Welcome to my Vivado repository created on March 14, 2021<br/>
 <!-- Table of Contents (TITLES) -->
 
 <!-- Home Button (Home) -->
