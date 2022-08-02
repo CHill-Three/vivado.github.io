@@ -3,12 +3,22 @@ Welcome to my Vivado repository created on March 14, 2021. Vivado is a Verilog-b
 <!-- Table of Contents (TITLES) -->
 
 ## My Main Projects (Section One: Vivado Starter Projects)
+<!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Project 1: Testing a Two to One Multiplexer](https://github.com/CHill-Three/vivado.github.io/blob/master/Project%201:%20Testing%20a%20Two%20to%20One%20Multiplexer/twoToOneMux.v)
 
-<!-- Project 1: Starter schematic to code (SUB-PARA) -->
 ### Project 1: Testing a Two to One Multiplexer <a name="Project 1: Testing a Two to One Multiplexer"></a>
 
 ![twoToOneMUX](https://raw.githubusercontent.com/CHill-Three/vivado.projects/master/Project%201%3A%20Testing%20a%20Two%20to%20One%20Multiplexer/twoToOneMUX.PNG?raw=true "twoToOneMUX")
 
 #### Description: 
 This CMOS-based 2-to-1 multiplexer consists of two inputs VALUES a and b, one select input (selection) and one output (mux_out). Follow the title link embedded for the Verilog code used in this project file.
+<!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
+## [Project 2: Building the Minimized Circuit: y = a'bd' + bc + bd'](https://github.com/CHill-Three/vivado.projects/blob/master/Project%202:%20Building%20the%20Minimized%20Circuit:%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/booleanAlgebra.v)
+
+### Project 2: Building the Minimized Circuit: y = a'bd' + bc + bd' <a name="Project 2: Building the Minimized Circuit: y = a'bd' + bc + bd'"></a>
+
+![booleanAlgebra](https://raw.githubusercontent.com/CHill-Three/vivado.projects/master/Project%202%3A%20Building%20the%20Minimized%20Circuit%3A%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/booleanAlgebra.PNG?raw=true "booleanAlgebra")
+
+#### Description: 
+This project is aimed with the task of building the minimized circuit (y = a'bd' + bc + bd'). In addition, this is the same circuit used in my Tinkercad projects (Laboratory 1: Boolean Algebra: EXTRA – Build the Minimized Circuit: y = a'bd' + bc + bd'). Follow the title link embedded for the Verilog code used in this project file.
+<!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
