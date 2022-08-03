@@ -20,5 +20,5 @@ This CMOS-based 2-to-1 multiplexer consists of two inputs VALUES a and b, one se
 ![booleanAlgebra](https://raw.githubusercontent.com/CHill-Three/vivado.projects/master/Project%202%3A%20Building%20the%20Minimized%20Circuit%3A%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/booleanAlgebraFinal.PNG?raw=true "booleanAlgebra")
 
 #### Description: 
-This project is aimed with the task of building the minimized circuit (y = a'bd' + bc + bd'). In addition, this is the same circuit used in my Tinkercad projects (Laboratory 1: Boolean Algebra: EXTRA – Build the Minimized Circuit: y = a'bd' + bc + bd'). Follow the title link embedded for the Verilog code used in this project file.
+This project is aimed with the task of building the minimized circuit (y = a'bd' + bc + bd'). In addition, this is the same circuit used in my Tinkercad project (Laboratory 1: Boolean Algebra: EXTRA – Build the Minimized Circuit: y = a'bd' + bc + bd'). Follow the title link embedded for the Verilog code used in this project file.
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
