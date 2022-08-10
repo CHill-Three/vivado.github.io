@@ -27,7 +27,7 @@ This project is aimed with the task of building the minimized circuit (y = a'bd'
 ### Project 3: Building a 4-bit arithmetic logic unit (ALU) <a name="Project 3: Building a 4-bit arithmetic logic unit (ALU)"></a>
 
 ![simpleALU](https://raw.githubusercontent.com/CHill-Three/vivado.projects/master/Project%203%3A%20Building%20a%204-bit%20arithmetic%20logic%20unit%20(ALU)/ALU-1.PNG?raw=true "simpleALU")
-
+ 
 #### Description: 
 This project is aimed with the task of building a 4-bit arithmetic logic unit (ALU). Follow the title link embedded for the Verilog code used in this project file.
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
