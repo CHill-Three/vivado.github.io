@@ -8,7 +8,7 @@ Welcome to my Vivado repository created on March 14, 2021. Vivado is a Verilog-b
 
 ### Project 1: Testing a Two to One Multiplexer <a name="Project 1: Testing a Two to One Multiplexer"></a>
 
-![twoToOneMUX](https://raw.githubusercontent.com/CHill-Three/vivado.projects/master/Project%201%3A%20Testing%20a%20Two%20to%20One%20Multiplexer/twoToOneMUX-1.PNG?raw=true "twoToOneMUX")
+![twoToOneMUX](https://raw.githubusercontent.com/CHill-Three/vivado.projects/master/Project%201%3A%20Testing%20a%20Two%20to%20One%20Multiplexer/twoToOneMUX-1.png?raw=true "twoToOneMUX")
 
 #### Description: 
 This CMOS-based 2-to-1 multiplexer consists of two inputs VALUES a and b, one select input (selection) and one output (mux_out). Follow the title link embedded for the Verilog code used in this project file.
